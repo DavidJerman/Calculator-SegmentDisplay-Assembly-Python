@@ -1,0 +1,67 @@
+----------------------------------
+[Log from: 2018/12/31 - 16:20:36]
+----------------------------------
+>> Received command >> 'clearLog' => Deleted the whole log
+>> Set of chars sent >> "9+9"
+>> button_back => Removed one char from entry
+>> button_back => Removed one char from entry
+>> button_back => Removed one char from entry
+>> button_reset => sent char 'c' to arduino
+>> button_1 => sent char '1' to arduino
+>> button_2 => sent char '2' to arduino
+>> button_4 => sent char '4' to arduino
+>> button_5 => sent char '5' to arduino
+>> button_7 => sent char '7' to arduino
+>> button_8 => sent char '8' to arduino
+>> button_9 => sent char '9' to arduino
+>> button_6 => sent char '6' to arduino
+>> button_3 => sent char '3' to arduino
+>> button_0 => sent char '0' to arduino
+>> button_minus => sent char '-' to arduino
+>> button_plus => sent char '+' to arduino
+>> button_multi => sent char '*' to arduino
+>> Received command >> 'help' => Printed help section
+----------------------------------
+[Log from: 2018/12/31 - 16:32:06]
+----------------------------------
+>> Received command >> 'help' => Printed help section
+>> Received command >> 'info' => Printed information
+>> Received command >> 'readLog' => Printed the whole log
+>> button_5 => sent char '5' to arduino
+>> button_multi => sent char '*' to arduino
+>> button_3 => sent char '3' to arduino
+>> button_multi => sent char '*' to arduino
+>> button_3 => sent char '3' to arduino
+>> button_multi => sent char '*' to arduino
+>> button_2 => sent char '2' to arduino
+>> button_plus => sent char '+' to arduino
+>> button_9 => sent char '9' to arduino
+>> button_plus => sent char '+' to arduino
+>> button_9 => sent char '9' to arduino
+>> Set of chars sent >> ""
+>> button_9 => sent char '9' to arduino
+>> Set of chars sent >> ""
+>> button_9 => sent char '9' to arduino
+>> button_reset => sent char 'c' to arduino
+>> button_3 => sent char '3' to arduino
+>> button_plus => sent char '+' to arduino
+>> button_2 => sent char '2' to arduino
+>> button_plus => sent char '+' to arduino
+>> button_7 => sent char '7' to arduino
+>> button_reset => sent char 'c' to arduino
+----------------------------------
+[Log from: 2018/12/31 - 16:35:11]
+----------------------------------
+>> Received command >> 'help' => Printed help section
+----------------------------------
+[Log from: 2019/01/02 - 20:01:45]
+----------------------------------
+ >> Could not run the program successfully due to an issue with COM port.
+----------------------------------
+[Log from: 2019/01/06 - 19:28:12]
+----------------------------------
+ >> Could not run the program successfully due to an issue with COM port.
+----------------------------------
+[Log from: 2019/01/09 - 16:30:48]
+----------------------------------
+>> button_2 => sent char '2' to arduino
