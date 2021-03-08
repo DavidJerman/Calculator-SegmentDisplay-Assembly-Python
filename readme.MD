@@ -1,4 +1,4 @@
-#HIGH SCHOOL ASSEMBLER PROJECT
+# HIGH SCHOOL ASSEMBLER PROJECT
 A project with assembly for ATmega328 and Python (2018).
 
 The idea is to send numbers from the Python GUI to the Arduino
